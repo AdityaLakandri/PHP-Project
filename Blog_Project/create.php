@@ -1,3 +1,4 @@
+//connecting to database file
 <?php
     include "logic.php"
 ?>
