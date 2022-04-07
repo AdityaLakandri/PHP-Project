@@ -1,3 +1,4 @@
+//viewpost page
 <?php
     include "logic.php"
 ?>
